@@ -6,7 +6,7 @@ import logo from "../assets/logo2.png";
 const Footer = () => {
   return (
     <div className="group">
-    <footer className="bg-[#006400] text-white py-10 px-6">
+    <footer className="bg-[#002800] text-white py-10 px-6">
       <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 items-center">
         
         {/* Left - Logo */}
@@ -64,7 +64,7 @@ const Footer = () => {
       </div>
      
     </footer>
-    <a href="https://mamoon-dev.vercel.app/"> <div className="bg-white h-5 text-center font-semibold text-[#006400]">
+    <a href="https://mamoon-dev.vercel.app/"> <div className="bg-white h-5 text-center font-semibold text-[#002800]">
       <div className="group-hover:hidden">copyRight-reserved-Registration no 1803</div>
      <div className="hidden  group-hover:block">Developed by Mamoon Khaliq</div>
       </div></a> 

@@ -7,7 +7,7 @@ const Certifications = () => {
 
   return (
     <div className="min-h-screen bg-gray-100 flex flex-col items-center justify-center p-6">
-      <h2 className="text-5xl text-[#006400] font-bold mb-8">Our Certifications</h2>
+      <h2 className="text-5xl text-[#002800] font-bold mb-8">Our Certifications</h2>
 
       {/* Certificates Grid */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">

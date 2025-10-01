@@ -7,6 +7,7 @@ import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Footer from "./components/Footer";
 import Team from "./pages/Team";
+import DonationForm from "./components/DonatingForm";
 
 
 
@@ -20,6 +21,7 @@ function App() {
         
         <Route path="/contact" element={<Contact />} />
         <Route path="/team" element={<Team />} />
+        <Route path="/donate" element={<DonationForm />} />
       </Routes>
       <Footer />
     </Router>

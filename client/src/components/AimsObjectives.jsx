@@ -83,20 +83,20 @@ const AimsObjectives = () => {
 
   return (
     <section className="max-w-4xl mx-auto px-6 py-12">
-      <h2 className="text-5xl font-bold text-[#006400] text-center mb-8">
+      <h2 className="text-5xl font-bold text-[#002800] text-center mb-8">
         AIMS & OBJECTIVES
       </h2>
       <div className="space-y-4">
         {aims.map((aim, index) => (
           <div
             key={index}
-            className="text-white border rounded-lg bg-[#006400] shadow-sm overflow-hidden"
+            className="text-white border rounded-lg bg-[#002800] shadow-sm overflow-hidden"
           >
             <button
               onClick={() =>
                 setOpenIndex(openIndex === index ? null : index)
               }
-              className="w-full flex justify-between items-center px-4 py-3 text-left font-semibold text-lg hover:bg-green-600"
+              className="w-full flex justify-between items-center px-4 py-3 text-left font-semibold text-lg "
             >
               {aim.title}
               <span className="text-xl">

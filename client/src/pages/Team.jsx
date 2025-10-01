@@ -3,7 +3,7 @@ import pic from "../assets/default.png";
 
 const Team = () => {
   return (
-    <div className="bg-gray-50 text-[#006400]">
+    <div className="bg-gray-50 text-[#002800]">
       {/* Institute Head */}
       <section className="max-w-6xl mx-auto px-4 py-12">
         <h2 className="text-3xl font-bold text-center mb-8">Our Chairman</h2>
@@ -28,7 +28,7 @@ const Team = () => {
           <h2 className="text-3xl font-bold text-center mb-8">Our Team</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
             {/* Member 1 */}
-            <div className="bg-gray-100 rounded-lg shadow-md p-6 text-center hover:bg-[#006400] hover:text-white transition">
+            <div className="bg-gray-100 rounded-lg shadow-md p-6 text-center hover:bg-[#002800] hover:text-white transition">
               <img
                 src={pic}
                 alt="Team Member"
@@ -38,7 +38,7 @@ const Team = () => {
               <p >Vice Chairperson</p>
             </div>
             {/* Member 2 */}
-            <div className="bg-gray-100 rounded-lg shadow-md p-6 text-center hover:bg-[#006400] hover:text-white transition">
+            <div className="bg-gray-100 rounded-lg shadow-md p-6 text-center hover:bg-[#002800] hover:text-white transition">
               <img
                 src={pic}
                 alt="Team Member"
@@ -48,7 +48,7 @@ const Team = () => {
               <p >General Secetary</p>
             </div>
 {/* Member 3 */}
-             <div className="bg-gray-100 rounded-lg shadow-md p-6 text-center hover:bg-[#006400] hover:text-white transition">
+             <div className="bg-gray-100 rounded-lg shadow-md p-6 text-center hover:bg-[#002800] hover:text-white transition">
               <img
                 src={pic}
                 alt="Team Member"
@@ -60,7 +60,7 @@ const Team = () => {
             {/* Member 3 */}
            
             {/* Member 4 */}
-             <div className="bg-gray-100 rounded-lg shadow-md p-6 text-center hover:bg-[#006400] hover:text-white transition">
+             <div className="bg-gray-100 rounded-lg shadow-md p-6 text-center hover:bg-[#002800] hover:text-white transition">
               <img
                 src={pic}
                 alt="Team Member"
@@ -71,7 +71,7 @@ const Team = () => {
             </div>
 
             {/* Member 3 */}
-             <div className="bg-gray-100 rounded-lg shadow-md p-6 text-center hover:bg-[#006400] hover:text-white transition">
+             <div className="bg-gray-100 rounded-lg shadow-md p-6 text-center hover:bg-[#002800] hover:text-white transition">
               <img
                 src={pic}
                 alt="Team Member"
@@ -81,7 +81,7 @@ const Team = () => {
               <p >Social Worker</p>
             </div>
             {/* Member 3 */}
-             <div className="bg-gray-100 rounded-lg shadow-md p-6 text-center hover:bg-[#006400] hover:text-white transition">
+             <div className="bg-gray-100 rounded-lg shadow-md p-6 text-center hover:bg-[#002800] hover:text-white transition">
               <img
                 src={pic}
                 alt="Team Member"
