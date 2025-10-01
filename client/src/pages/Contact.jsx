@@ -115,7 +115,7 @@ Moro City</p>
   <div className="bg-white rounded-lg shadow-md p-6 text-center hover:shadow-lg transition  hover:bg-[#002800] hover:text-white">
     <p className="font-semibold text-lg mb-2">Contact Us</p>
     <p>📞 0333-8373778</p>
-    <p>📞 0242-530308</p>
+    <p>📞 0300-2665426</p>
     <p> sahara.org@hotmail.com</p>
   </div>
 </section>
