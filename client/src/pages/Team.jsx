@@ -6,7 +6,7 @@ const Team = () => {
     <div className="bg-gray-50 text-[#002800]">
       {/* Institute Head */}
       <section className="max-w-6xl mx-auto px-4 py-12">
-        <h2 className="text-3xl font-bold text-center mb-8">Our Chairman</h2>
+        <h2 className="text-3xl font-bold text-center mb-8">CHAIRMAN</h2>
         <div className="flex flex-col md:flex-row items-center gap-8">
           <img
             src={pic}
@@ -25,7 +25,7 @@ const Team = () => {
       {/* Team Members */}
       <section className="bg-white py-12">
         <div className="max-w-6xl mx-auto px-4">
-          <h2 className="text-3xl font-bold text-center mb-8">Our Team</h2>
+          <h2 className="text-3xl font-bold text-center mb-8">Team</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
             {/* Member 1 */}
             <div className="bg-gray-100 rounded-lg shadow-md p-6 text-center hover:bg-[#002800] hover:text-white transition">
@@ -45,7 +45,7 @@ const Team = () => {
                 className="w-32 h-32 mx-auto rounded-full object-cover mb-4"
               />
               <h3 className="text-xl font-semibold">Mr Aftab Ahmed</h3>
-              <p >General Secetary</p>
+              <p >General Secretary</p>
             </div>
 {/* Member 3 */}
              <div className="bg-gray-100 rounded-lg shadow-md p-6 text-center hover:bg-[#002800] hover:text-white transition">
@@ -55,7 +55,7 @@ const Team = () => {
                 className="w-32 h-32 mx-auto rounded-full object-cover mb-4"
               />
               <h3 className="text-xl font-semibold">Mr Sajjad Ahmed Memon</h3>
-              <p >Finance Secetary</p>
+              <p >Finance Secretary</p>
             </div>
             {/* Member 3 */}
            
