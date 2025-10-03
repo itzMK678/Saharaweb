@@ -1,5 +1,5 @@
 import React from "react";
-import { Facebook, Mail, MapPin } from "lucide-react"; // ✅ add MapPin
+import { Facebook, Mail, MapPin,MessageCircle } from "lucide-react"; // ✅ add MapPin
 
 import logo from "../assets/logo2.png";
 
@@ -49,14 +49,22 @@ const Footer = () => {
   >
     <MapPin className="w-6 h-6" />
   </a>
+
+   <a
+        href="https://wa.me/923008373778" // 🔗 link to your WhatsApp
+        target="_blank"
+        rel="noreferrer"
+        className="hover:text-green-900"
+      >
+        <MessageCircle className="w-6 h-6" />
+      </a>
 </div>
 
 
           {/* Numbers */}
           <div className="mt-4 text-sm space-y-1">
-            <p>📞 0333-8373778</p>
-            <p>📞 0301-3215355</p>
-            <p>📞 0300-2665426</p>
+            <p>📞 0300-8373778</p>
+            
           </div>
         </div>
 
@@ -66,8 +74,8 @@ const Footer = () => {
      
     </footer>
     <a href="https://mamoon-dev.vercel.app/"> <div className="bg-white h-5 text-center font-semibold text-[#002800]">
-      <div className="group-hover:hidden">copyRight-reserved-Registration no 1803</div>
-     <div className="hidden  group-hover:block">Developed by Mamoon Khaliq</div>
+      <div className="group-hover:hidden font-light ">copyRight-reserved-Registration no 1803</div>
+     <div className="hidden  group-hover:block font-light">Developed by Mamoon Khaliq</div>
       </div></a> 
 </div>
   );

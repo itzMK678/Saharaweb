@@ -6,11 +6,7 @@ const Team = () => {
     <div className="bg-gray-50 text-[#002800]">
       {/* Institute Head */}
       <section className="max-w-6xl mx-auto px-4 py-12">
-<<<<<<< HEAD
-        <h2 className="text-3xl font-bold text-center mb-8">Chairman</h2>
-=======
         <h2 className="text-3xl font-bold text-center mb-8">CHAIRMAN</h2>
->>>>>>> 45c6623483ef8506209daeac857964535ad4f5d6
         <div className="flex flex-col md:flex-row items-center gap-8">
           <img
             src={pic}
@@ -18,7 +14,7 @@ const Team = () => {
             className="w-48 h-48 rounded-full object-cover shadow-lg"
           />
           <div>
-            <h3 className="text-2xl font-semibold">Mr Abdul Hameed Memon</h3>
+            <h3 className="text-2xl font-semibold">Mr.Abdul Hameed Memon</h3>
             <p className="text-gray-600">Founder & Chairman</p>
             <p className="mt-4">
              Abdul Hameed Memon (M.A. Economics, LL.B) is the Chairman and Founder of SAHARA since 2014-15. With decades of leadership in education, welfare and community development, he also heads the United Memon Educational & Welfare Society and serves as Managing Director of Ali Builders & Developers. An Advocate of the High Court Sindh, he has held several key positions including President of Sindh Memon Itihad and Director of Jeay FM 88 Network, reflecting his lifelong commitment to public service and social uplift.</p>
@@ -38,7 +34,7 @@ const Team = () => {
                 alt="Team Member"
                 className="w-32 h-32 mx-auto rounded-full object-cover mb-4"
               />
-              <h3 className="text-xl font-semibold">Mrs Farida Memon</h3>
+              <h3 className="text-xl font-semibold">Mrs.Farida Memon</h3>
               <p >Vice Chairperson</p>
             </div>
             {/* Member 2 */}
@@ -48,7 +44,7 @@ const Team = () => {
                 alt="Team Member"
                 className="w-32 h-32 mx-auto rounded-full object-cover mb-4"
               />
-              <h3 className="text-xl font-semibold">Mr Aftab Ahmed</h3>
+              <h3 className="text-xl font-semibold">Mr.Aftab Ahmed</h3>
               <p >General Secretary</p>
             </div>
 {/* Member 3 */}
@@ -58,7 +54,7 @@ const Team = () => {
                 alt="Team Member"
                 className="w-32 h-32 mx-auto rounded-full object-cover mb-4"
               />
-              <h3 className="text-xl font-semibold">Mr Sajjad Ahmed Memon</h3>
+              <h3 className="text-xl font-semibold">Mr.Sajjad Ahmed Memon</h3>
               <p >Finance Secretary</p>
             </div>
             {/* Member 3 */}
@@ -70,7 +66,7 @@ const Team = () => {
                 alt="Team Member"
                 className="w-32 h-32 mx-auto rounded-full object-cover mb-4"
               />
-              <h3 className="text-xl font-semibold">Mr Abdul Sattar Memon</h3>
+              <h3 className="text-xl font-semibold">Mr.Abdul Sattar Memon</h3>
               <p>Social Worker</p>
             </div>
 
@@ -81,7 +77,7 @@ const Team = () => {
                 alt="Team Member"
                 className="w-32 h-32 mx-auto rounded-full object-cover mb-4"
               />
-              <h3 className="text-xl font-semibold">Mst Kainat Kalwar</h3>
+              <h3 className="text-xl font-semibold">Mst.Kainat Kalwar</h3>
               <p >Social Worker</p>
             </div>
             {/* Member 3 */}
@@ -91,7 +87,7 @@ const Team = () => {
                 alt="Team Member"
                 className="w-32 h-32 mx-auto rounded-full object-cover mb-4"
               />
-              <h3 className="text-xl font-semibold">Mst Snobar Zubair</h3>
+              <h3 className="text-xl font-semibold">Mrs.Snobar Zubair</h3>
               <p >Social Worker</p>
             </div>
             {/* Add more team members */}

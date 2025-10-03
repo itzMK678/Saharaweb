@@ -42,7 +42,7 @@ Qasimabad, Hyderabad</p>
         <div className="flex flex-wrap space-evenly">
         <div className="bg-white max-w-[500px] rounded-lg shadow-md overflow-hidden m-2">
           <h3 className="text-2xl font-bold text-center py-4 bg-[#002800] text-white">
-            Regional Headquarter 1
+            Regional Headquarter 
           </h3>
           <div className="flex flex-col md:flex-row">
             {/* Map */}
@@ -56,13 +56,11 @@ Qasimabad, Hyderabad</p>
             {/* Address */}
             <div className="p-6 md:w-1/2">
               <h4 className="text-xl font-semibold mb-2">Address</h4>
-              <p> Main Bypass, Naushahro Ferozen</p>
+              <p> Main Bypass, Naushahro Feroze</p>
               <p className="mt-3">
-                <span className="font-semibold">Contact:</span>0242-530308
+                <span className="font-semibold">Contact:</span>0300-2665426
               </p>
-              <p className="mt-3">
-                <span className="font-semibold">Contact:</span>0301-3215355
-              </p>
+              
              
             </div>
           </div>
@@ -71,7 +69,7 @@ Qasimabad, Hyderabad</p>
         {/* Sub Office 2 */}
         <div className="m-2 bg-white max-w-[500px] rounded-lg shadow-md overflow-hidden">
           <h3 className="text-2xl font-bold text-center py-4 bg-[#002800] text-white">
-             Regional Headquarter 2
+            Camp Office
           </h3>
           <div className="flex flex-col md:flex-row">
             {/* Map */}
@@ -88,11 +86,9 @@ Qasimabad, Hyderabad</p>
               <p>Dadu Moro Road
 Moro City</p>
               <p className="mt-3">
-                <span className="font-semibold">Contact:</span>0242-412144
+                <span className="font-semibold">Contact:</span>0333-8373778
               </p>
-              <p className="mt-3">
-                <span className="font-semibold">Contact:</span>0300-2665426
-              </p>
+              
             </div>
           </div>
         </div>
@@ -114,8 +110,8 @@ Moro City</p>
   {/* Contact Details */}
   <div className="bg-white rounded-lg shadow-md p-6 text-center hover:shadow-lg transition  hover:bg-[#002800] hover:text-white">
     <p className="font-semibold text-lg mb-2">Contact Us</p>
-    <p>📞 0333-8373778</p>
-    <p>📞 0300-2665426</p>
+    <p>📞 0300-8373778</p>
+    
     <p> sahara.org@hotmail.com</p>
   </div>
 </section>
