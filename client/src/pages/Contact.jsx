@@ -112,7 +112,7 @@ Moro City</p>
     <p className="font-semibold text-lg mb-2">Contact Us</p>
     <p>📞 0300-8373778</p>
     
-    <p> sahara.org@hotmail.com</p>
+    <p>✉️ sahara.org@hotmail.com</p>
   </div>
 </section>
       </section>
