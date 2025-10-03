@@ -13,7 +13,7 @@ const data = [
 const About = () => {
   return (
     <div className='bg-gray-100'>
-      <div className='bg-[#002800] h-[100px] font-extrabold text-5xl text-center text-white p-4 border-t-2'>Our Aim </div>
+      <div className='bg-[#002800] h-[100px] font-extrabold text-5xl text-center text-white p-4 border-t-2'>Aim and Objectives</div>
       <AimsObjectives />
       <ImageScroller />
       <div className="flex flex-wrap justify-center">

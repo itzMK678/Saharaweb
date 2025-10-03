@@ -84,7 +84,7 @@ const AimsObjectives = () => {
   return (
     <section className="max-w-4xl mx-auto px-6 py-12">
       <h2 className="text-5xl font-bold text-[#002800] text-center mb-8">
-        AIMS & OBJECTIVES
+        
       </h2>
       <div className="space-y-4">
         {aims.map((aim, index) => (

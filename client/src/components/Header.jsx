@@ -27,9 +27,13 @@ const Header = () => {
           <Link to="/team" className="hover:text-green-200 transition">
             Team
           </Link>
+          <Link to="/activity" className="hover:text-green-200 transition">
+            Activities
+          </Link>
           <Link to="/contact" className="hover:text-green-200 transition">
             Contact
           </Link>
+          
         </div>
 
         <div className="flex items-center space-x-4">
@@ -38,7 +42,7 @@ const Header = () => {
               className=" bg-white text-[#002800] px-5 py-2 rounded-[4px] cursor-pointer font-semibold hover:bg-green-800 hover:text-white transition"
               onClick={() => setFund(!fund)}
             >
-              Fund
+              Donate
             </button>
             {/* FIXED CLASSNAME */}
             <div
@@ -82,6 +86,10 @@ const Header = () => {
               >
                 Team
               </Link>
+              <Link to="/activity"
+               className="block border text-[#002800] border-[#002800] px-4 py-3 hover:bg-[#002800] hover:text-white transition">
+            Activities
+          </Link>
               <Link
                 to="/contact"
                 className="block border text-[#002800] border-[#002800] px-4 py-3 hover:bg-[#002800] hover:text-white transition"

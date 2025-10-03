@@ -15,7 +15,7 @@ const WorkCard = ({Pic, Title, Description}) => {
         />
 
         {/* Logo overlapping image */}
-        <div className="absolute -bottom-8 right-38 bg-[#002800] p-1 rounded-full">
+        <div className="absolute -bottom-8 left-1/2 -translate-x-1/2 bg-[#002800] p-1 rounded-full">
           <img
             src={logo}
             alt="Logo"
