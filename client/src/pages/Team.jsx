@@ -6,7 +6,11 @@ const Team = () => {
     <div className="bg-gray-50 text-[#002800]">
       {/* Institute Head */}
       <section className="max-w-6xl mx-auto px-4 py-12">
+<<<<<<< HEAD
         <h2 className="text-3xl font-bold text-center mb-8">Chairman</h2>
+=======
+        <h2 className="text-3xl font-bold text-center mb-8">CHAIRMAN</h2>
+>>>>>>> 45c6623483ef8506209daeac857964535ad4f5d6
         <div className="flex flex-col md:flex-row items-center gap-8">
           <img
             src={pic}
