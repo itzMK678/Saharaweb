@@ -29,7 +29,7 @@ const Contact = () => {
 Gul-E-Latif, Phase – I, near Technical College
 Qasimabad, Hyderabad</p>
               <p className="mt-3">
-                <span className="font-semibold">Contact:</span> 0333-8373778
+                <span className="font-semibold">Contact: </span>0333-8373778
               </p>
               <p>
                 <span className="font-semibold">Email:</span> sahara.org@hotmail.com
@@ -58,7 +58,7 @@ Qasimabad, Hyderabad</p>
               <h4 className="text-xl font-semibold mb-2">Address</h4>
               <p> Main Bypass, Naushahro Feroze</p>
               <p className="mt-3">
-                <span className="font-semibold">Contact:</span>0300-2665426
+                <span className="font-semibold">Contact: </span>0300-2665426
               </p>
               
              
@@ -86,7 +86,7 @@ Qasimabad, Hyderabad</p>
               <p>Dadu Moro Road
 Moro City</p>
               <p className="mt-3">
-                <span className="font-semibold">Contact:</span>0333-8373778
+                <span className="font-semibold">Contact: </span>0333-8373778
               </p>
               
             </div>
